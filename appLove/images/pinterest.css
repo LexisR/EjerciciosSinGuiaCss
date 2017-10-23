@@ -1,0 +1,125 @@
+.menu{
+  margin-top: 70PX;
+  border: 1px solid lightGray;
+}
+.icono_1{
+  position: absolute;
+  left: 1150px;
+  top: 22px;
+  color: lightGray;
+}
+.icono_2{
+  position: absolute;
+  left: 1100px;
+  top:22px;
+  color: lightGray;
+}
+.icono_3{
+  position: absolute;
+  left: 1200px;
+  top: 22px;
+  color: lightGray;
+}
+.icono_4{
+  position: absolute;
+  left: 120px;
+  top: 22px;
+  color: red;
+}
+.input{
+  width: 100%;
+  left: 40%;
+}
+.icono_5{
+  position:absolute;
+  left:79px;
+  top:10px;
+  color:black;
+}
+.parrafo{
+  position:absolute;
+  left:95px;
+  top:10px;
+}
+.cuerpo{
+  overflow:auto;
+  margin-top:90px;
+  padding-left: 136px;
+
+}
+
+.contenedor-nav{
+  position: fixed;
+  background-color: white;
+  }
+
+.contenedor-nav div{
+  display: inline-block;
+  }
+
+p{
+  display: inline-block;
+  padding: 20px;
+  float: left;
+  background-color: none;
+  font-family: sans-serif;
+  margin: 5px;
+  font-size: 11px;
+  border-radius: 5px;
+  outline: green;
+  color: white;
+}
+.cheat{
+  background-color:#503E2B;
+  border-radius: 10px;
+  }
+
+.tutorial{
+  background-color:#B59B79;
+  border-radius: 10px;
+}
+
+.code{
+  background-color:#7A5F3F;
+  border-radius: 10px;
+}
+
+.fun{
+  background-color: #6B5C4C;
+  border-radius: 10px;
+}
+
+.programming{
+  background-color: #7CA13E;
+  border-radius: 10px;
+}
+
+.projects{
+  background-color:#7A5F3F;
+  border-radius: 10px;
+}
+
+.posts{
+  background-color: #A8686A;
+  border-radius: 10px;
+}
+
+.medium{
+  background-color: #6B5C4C;
+  border-radius: 10px;
+}
+
+.videos{
+  background-color: #A8686A;
+  border-radius: 10px;
+}
+
+.barra{
+  position: absolute;
+  left:160px;
+  top: 22px;
+}
+.imagenes{
+  margin-left: -50px;
+  margin-top:140px;
+}
