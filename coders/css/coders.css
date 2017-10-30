@@ -2,30 +2,34 @@
 .principal{
   margin: 30px;
 }
+
 h3{
   top: 700px;
-
 }
+
 .principal_1{
   margin: 30px;
 }
-.uno{
-float: left;
-box-shadow: 10px 5px 5px black;
 
+.uno{
+  float: left;
+  box-shadow: 10px 5px 5px black;
 }
+
 .tex_1{
-position: absolute;
-top: 240px;
-color:#fff;
-font-family: sans-serif;
-left: 80px;
+  position: absolute;
+  top: 240px;
+  color:#fff;
+  font-family: sans-serif;  
+  left: 80px;
 }
+
 .dos{
   float: left;
   margin-left: 30px;
   box-shadow: 10px 5px 5px black;
 }
+
 .tex_2{
   position: absolute;
   top: 240px;
@@ -33,10 +37,11 @@ left: 80px;
   font-family: sans-serif;
   left: 280px;
 }
-.tres{
-margin-left: 460px;
 
+.tres{
+  margin-left: 460px;
 }
+
 .tex_3{
   position: absolute;
   top: 240px;
@@ -45,36 +50,41 @@ margin-left: 460px;
   left: 540px;
 }
 
- .cuatro{
-float: left;
-box-shadow: 10px 5px 5px black;
+.cuatro{
+  float: left;
+  box-shadow: 10px 5px 5px black;
 }
- .tex_4{
-   position: absolute;
-   top: 485px;
-   color: #fff;
-   font-family: sans-serif;
-   left: 73px;
- }
- .cinco{
-   float: left;
-   margin-left: 26px;
-   box-shadow: 10px 5px 5px black;
- }
- .tex_5{
-   position: absolute;
-   top: 485px;
-   color: #000;
-   font-family: sans-serif;
-   left: 320px;
- }
- .seis{
-   margin-left: 480px;
-    }
- .tex_6{
-   position: absolute;
-   top: 485px;
-   color: #000;
-   font-family: sans-serif;
-   left: 560px;
- }
+
+.tex_4{
+  position: absolute;
+  top: 485px;
+  color: #fff;
+  font-family: sans-serif;
+  left: 73px;
+}
+
+.cinco{
+  float: left;
+  margin-left: 26px;
+  box-shadow: 10px 5px 5px black;
+}
+
+.tex_5{
+  position: absolute;
+  top: 485px;
+  color: #000;
+  font-family: sans-serif;
+  left: 320px;
+}
+ 
+.seis{
+  margin-left: 480px;
+}
+
+.tex_6{
+  position: absolute;
+  top: 485px;
+  color: #000;
+  font-family: sans-serif;
+  left: 560px;
+}
